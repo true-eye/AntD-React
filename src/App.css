@@ -1,0 +1,9 @@
+.ant-btn-primary {
+  background-color: #005271 !important;
+  border-color: #005271 !important;
+}
+
+.ant-btn:hover, .ant-btn:focus {
+  background-color: #016083 !important;
+  border-color: #016083 !important;
+}
