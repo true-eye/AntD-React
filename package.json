@@ -46,7 +46,7 @@
     "js-marker-clusterer": "^1.0.0",
     "js-rich-marker": "^1.1.2",
     "lodash": "^4.17.4",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "node-js-marker-clusterer": "^1.0.0",
     "nprogress": "^0.2.0",
     "polished": "^1.7.0",
